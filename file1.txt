@@ -1,1 +1,2 @@
 we are learning devops
+today we re learning git and github which is very imp for devops engineers.
