@@ -3,3 +3,4 @@ addded another line
 this line added for pull
 this line added in feature branch
 added new line to check git fetch command
+added this 6th line to check git pull command
